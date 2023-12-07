@@ -2,7 +2,7 @@
   "name": "u-dicom-viewer",
   "version": "0.8.1",
   "private": true,
-  "homepage": "https://webnamics.github.io/u-dicom-viewer/",
+  "homepage": "https://jinftw64.github.io/u-dicom-viewer/",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
@@ -23,7 +23,7 @@
     "dexie": "^3.0.1",
     "dicom-parser": "^1.8.5",
     "file-saver": "^2.0.2",
-    "gh-pages": "^3.1.0",
+    "gh-pages": "^3.2.3",
     "hammerjs": "^2.0.8",
     "jszip": "^3.5.0",
     "lodash": "^4.17.19",
