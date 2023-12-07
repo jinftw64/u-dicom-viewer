@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/u-dicom-viewer/static/css/main.fa5b3062.chunk.css",
+    "main.js": "/u-dicom-viewer/static/js/main.6c212f46.chunk.js",
+    "main.js.map": "/u-dicom-viewer/static/js/main.6c212f46.chunk.js.map",
+    "runtime-main.js": "/u-dicom-viewer/static/js/runtime-main.1153c50b.js",
+    "runtime-main.js.map": "/u-dicom-viewer/static/js/runtime-main.1153c50b.js.map",
+    "static/css/2.18fb2ca0.chunk.css": "/u-dicom-viewer/static/css/2.18fb2ca0.chunk.css",
+    "static/js/2.041284f0.chunk.js": "/u-dicom-viewer/static/js/2.041284f0.chunk.js",
+    "static/js/2.041284f0.chunk.js.map": "/u-dicom-viewer/static/js/2.041284f0.chunk.js.map",
+    "index.html": "/u-dicom-viewer/index.html",
+    "precache-manifest.fc7eb56f49ff22c01e0ba6c3af1acc89.js": "/u-dicom-viewer/precache-manifest.fc7eb56f49ff22c01e0ba6c3af1acc89.js",
+    "service-worker.js": "/u-dicom-viewer/service-worker.js",
+    "static/css/2.18fb2ca0.chunk.css.map": "/u-dicom-viewer/static/css/2.18fb2ca0.chunk.css.map",
+    "static/css/main.fa5b3062.chunk.css.map": "/u-dicom-viewer/static/css/main.fa5b3062.chunk.css.map",
+    "static/js/2.041284f0.chunk.js.LICENSE.txt": "/u-dicom-viewer/static/js/2.041284f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1153c50b.js",
+    "static/css/2.18fb2ca0.chunk.css",
+    "static/js/2.041284f0.chunk.js",
+    "static/css/main.fa5b3062.chunk.css",
+    "static/js/main.6c212f46.chunk.js"
+  ]
+}
